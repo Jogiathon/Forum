@@ -1,6 +1,6 @@
 #Sched
 # webapp
-This application was created for learning purposes. Much of the code came from "Code with Mosh" learning program. I've used several resources for the application to come to this point. 
+This application was created for learning purposes.
 
 This application utilizes node.js for the backend language. The database service is MongoDB. The front end uses the React framework.
 
