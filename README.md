@@ -14,7 +14,7 @@ Get Started:
 4. Navigate to the client folder
 5. Enter "npm install"
 6. Navigate to the backend folder
-7. Enter "Nodemon server.js" and press enter to install npm packages
+7. Enter "Nodemon server.js"
 8. Navigate to the client folder
 9. Enter "npm start"
 
