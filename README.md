@@ -18,4 +18,4 @@ Get Started:
 8. Navigate to the client folder
 9. Enter "npm start"
 
-You should be able to see a website.
+NOTE: Nodemon must be installed globally.
