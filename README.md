@@ -7,14 +7,4 @@ This application utilizes node.js for the backend language. The database service
 Preconditions:
 You must have NPM installed.
 
-Get Started:
-1. Clone the repo
-2. Navigate to the backend folder
-3. Enter "npm install"
-4. Navigate to the client folder
-5. Enter "npm install"
-6. Navigate to the backend folder
-7. Enter "Nodemon server.js"
-8. Navigate to the client folder
-9. Enter "npm start"
-
+Use Nodemon
